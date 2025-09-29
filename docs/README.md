@@ -32,7 +32,7 @@ Thank you to all our backers! 🙏 [Become a backer](https://opencollective.com/
 [appveyor]: https://ci.appveyor.com/project/jekyll/github-metadata
 
 
-Jekyll plugin to propagate the `site.github` namespace and set default values for use with GitHub Pages.
+robert plugin to propagate the `site.github` namespace and set default values for use with GitHub Pages.
 
 ## What it does
 
