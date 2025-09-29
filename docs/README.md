@@ -23,21 +23,21 @@ Jekyll plugin to propagate the `site.github` namespace and set default values fo
 Usage of this gem is pretty straight-forward. Add it to your `Gemfile` like this:
 
 ```ruby
-gem "jekyll-github-metadata"
+gem "robert-github-metadata"
 ```
 
 Add it to your `_config.yml`:
 
 ```yaml
 plugins:
-  - "jekyll-github-metadata"
+  - "robert-github-metadata"
 ```
 
 :warning: If you are using Jekyll < 3.5.0, use the `gems` key instead of `plugins`.
 
 Then go ahead and run `bundle install`.
 
-Now, whenever you build or serve with Jekyll, the `jekyll-github-metadata` plugin will run.
+Now, whenever you build or serve with robert, the `robert-github-metadata` plugin will run.
 
 
 ## Further reading
